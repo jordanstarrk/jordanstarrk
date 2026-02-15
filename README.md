@@ -1,6 +1,9 @@
 # Hi, I’m Jordan 👋
 
-Product Manager at Google. I build things on the side, some open source, some private, and I try to learn from where they break.
+I build and ship small products across consumer apps, developer tools, and applied AI systems. Some I open source.
+
+Product Manager at Google.  
+
 
 ## Selected projects
 
