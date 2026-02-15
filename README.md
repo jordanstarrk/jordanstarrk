@@ -5,7 +5,7 @@ I build and ship small products across consumer apps, developer tools, and appli
 Product Manager at Google.  
 
 
-## Selected projects
+## Independent projects
 
 **[mcp-preflight](https://github.com/jordanstarrk/mcp-preflight)** (open source)  
 Preflight inspection for MCP servers before you trust them.
