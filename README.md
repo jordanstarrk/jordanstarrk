@@ -25,7 +25,7 @@ Chrome extension that plays a short cat or dog video on every new tab.
 - First solo project I built, shipped, and distributed  
 - Learned real-world lessons about global latency, CDNs, and cost optimization  
 
-👉 **[Chrome Web Store listing](https://chromewebstore.google.com/detail/meow-meow-woof/lcpipfmjdfelofldlehfiogoogpkjiea)**
+  [Chrome Web Store listing](https://chromewebstore.google.com/detail/meow-meow-woof/lcpipfmjdfelofldlehfiogoogpkjiea)
 
 **[Lokalblatt](https://lokalblatt.ch/)** (private)  
 Profitable German language-learning app.
